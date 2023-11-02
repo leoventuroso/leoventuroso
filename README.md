@@ -23,3 +23,6 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
         <img src="linkedin.png" alt="LinkedIn logo" width="40px" />
     </a>
 </div>
+
+[![napo's GitHub stats](https://github-readme-stats.vercel.app/api?username=napo)](https://github.com/napo)
+
