@@ -22,9 +22,7 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
     <a href="https://www.linkedin.com/in/leonardo-venturoso/">
         <img src="linkedin.png" alt="LinkedIn logo" width="40px" />
     </a>
-</div>
-
-<div>
+&nbsp;
     
 </div>
 
