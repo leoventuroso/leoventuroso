@@ -15,7 +15,7 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 
 [Lab website](https://dcl.fbk.eu/) and [![Personal Website]()]()
 
- &nbsp;&nbsp;&nbsp;&nbsp; [<img src="[logo_gmail.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)" alt="Unitn logo" width="50"  /> ](mailto:leo.venturoso@gmail.com)
+ &nbsp;&nbsp;&nbsp;&nbsp; [<img src="[gmail-icon.png]" alt="Unitn logo" width="50"  /> ](mailto:leo.venturoso@gmail.com)
  &nbsp;&nbsp;&nbsp;&nbsp;  [<img alt="alt_text" width="40px" src="linkedin_logo.png" />](https://www.linkedin.com/in/leonardo-venturoso/)
 
 &nbsp;
