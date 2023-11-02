@@ -15,6 +15,7 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 
 [Lab website](https://dcl.fbk.eu/) and [Personal Website](https://leoventuroso.github.io/)
 
+
 <div style="display: flex; align-items: center;">
     <a href="mailto:leo.venturoso@gmail.com" style="margin-right: 20px;">
         <img src="gmail-icon-free-png.webp" alt="gmail logo" style="horizontal-align: middle;" width="40px" />
