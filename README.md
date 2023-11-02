@@ -21,10 +21,10 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
     </a>
     <a href="https://www.linkedin.com/in/leonardo-venturoso/">
         <img src="linkedin.png" alt="LinkedIn logo" width="40px" />
-    </a>
-&nbsp;
-    
+    </a>    
 </div>
+
+&nbsp;
 
 [![leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoventuroso)](https://github.com/leoventuroso)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoventuroso&theme=default)
