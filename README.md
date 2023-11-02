@@ -16,13 +16,14 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 [Lab website](https://dcl.fbk.eu/) and [![Personal Website]()](https://davidebrex.github.io/)
 
 <div style="display: flex; align-items: center;">
-    <a href="mailto:leo.venturoso@gmail.com" style="margin-right: "20px";">
-        <img src="gmail-icon.png" alt="gmail logo" width="30px" />
+    <a href="mailto:leo.venturoso@gmail.com" style="margin-right: 20px;">
+        <img src="gmail-icon.png" alt="gmail logo" style="vertical-align: middle;" width="30px" />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-venturoso/">
-        <img src="linkedin.png" alt="LinkedIn logo" width="40px" />
+        <img src="linkedin.png" alt="LinkedIn logo" style="vertical-align: middle;" width="40px" />
     </a>    
 </div>
+
 
 &nbsp;
 
