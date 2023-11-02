@@ -13,7 +13,7 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 
 ##### Contacts 📫
 
-[Lab website](https://dcl.fbk.eu/) and [![Personal Website](https://davidebrex.github.io/)]
+[Lab website](https://dcl.fbk.eu/) and [![Personal Website]()](https://davidebrex.github.io/)
 
 <div style="display: flex; align-items: center;">
     <a href="mailto:leo.venturoso@gmail.com" style="margin-right: "20px";">
