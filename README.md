@@ -19,5 +19,3 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
  &nbsp;&nbsp;&nbsp;&nbsp;  [<img alt="alt_text" width="40px" src="linkedin_logo.png" />](https://www.linkedin.com/in/leonardo-venturoso/)
 
 &nbsp;
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leoventuroso)](https://git.io/streak-stats)
