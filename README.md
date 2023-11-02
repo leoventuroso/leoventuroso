@@ -1,6 +1,6 @@
-| ![LagoDiTovel]() | 
+| ![CampanileValMontanaia](montanaia.png) | 
 |:--:| 
-| *Tovel Lake* |
+| *Campanile Val Montanaia* |
 
 ### Hi all! 👋
 
