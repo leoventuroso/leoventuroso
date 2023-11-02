@@ -20,6 +20,6 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
         <img src="gmail-icon.png" alt="gmail logo" width="40px" />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-venturoso/">
-        <img src="linkedin.png" alt="LinkedIn logo" width="50px" />
+        <img src="linkedin.png" alt="LinkedIn logo" width="40px" />
     </a>
 </div>
