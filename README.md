@@ -11,8 +11,6 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 
 💻 I’m currently learning sophisticated network analysis, prediction and geospatial techniques. 
 
-Contacts 📫
-
 ##### Contacts 📫
 
 [Lab website](https://dcl.fbk.eu/) and [![Personal Website]()]()
