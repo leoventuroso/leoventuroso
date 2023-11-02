@@ -23,6 +23,3 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
         <img src="linkedin-logo.png" alt="LinkedIn logo" width="50px" />
     </a>
 </div>
-
-
-&nbsp;
