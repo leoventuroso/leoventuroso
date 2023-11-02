@@ -24,5 +24,5 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
     </a>
 </div>
 
-[![napo's GitHub stats](https://github-readme-stats.vercel.app/api?username=napo)](https://github.com/napo)
+[![leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoventuroso)](https://github.com/leoventuroso)
 
