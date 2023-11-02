@@ -17,7 +17,7 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 
 <div style="display: flex; align-items: center;">
     <a href="mailto:leo.venturoso@gmail.com" style="margin-right: 20px;">
-        <img src="gmail-icon.png" alt="gmail logo" style="horizontal-align: middle;" width="30px" />
+        <img src="gmail-icon-free-png.webp" alt="gmail logo" style="horizontal-align: middle;" width="30px" />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-venturoso/">
         <img src="linkedin.png" alt="LinkedIn logo" style="horizontal-align: middle;"width="40px" />
