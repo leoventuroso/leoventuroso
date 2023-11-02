@@ -25,4 +25,8 @@ with Fondazione Bruno Kessler at Digital Commons Lab.
 </div>
 
 [![leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoventuroso)](https://github.com/leoventuroso)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoventuroso&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoventuroso&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShogoHirasawa&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoventuroso&layout=compact)](https://github.com/leoventuroso)
+
 
